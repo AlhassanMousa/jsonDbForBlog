@@ -2,7 +2,7 @@
   "blogs": [
        {
       "title": "why you can't add or delete any post on this blog",
-       "body": "because json file that used for db is hosted on github and data get fetched from gethub using server on my-json-server.typicode.com
+       "body": "because json file that used for db is hosted on github and data get fetched from gethub using server on my-json-server.typicode.com",
       "author": "hassan1",
       "id": 1
     },
